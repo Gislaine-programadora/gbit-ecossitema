@@ -1,0 +1,20 @@
+{
+  "name": "gbit-ecosystem",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page showcasing the GBIT CLI ecosystem — gbit-next, gbit-start, gbit-readme, gbit-address and create-gbit-app.",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "gbit",
+    "cli",
+    "web3",
+    "nextjs",
+    "landing-page"
+  ],
+  "author": "Gislaine Cristina Lopes Fernandes",
+  "license": "MIT",
+  "homepage": "https://github.com/Gislaine-programadora/gbit-ecosystem"
+}
