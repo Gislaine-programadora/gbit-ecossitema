@@ -18,7 +18,7 @@ Build • Clone • Generate • Document • Develop
 
 ### 🌐 Live 
 
-https://gislaine-programadora.github.io/gbit-ecossitema/
+https://gislaine-programadora.github.io/gbit-ecossistema/
 
 </div>
 
@@ -159,7 +159,7 @@ Visit the live landing page:
 
 ## 🌐
 
-https://gislaine-programadora.github.io/gbit-ecossitema/
+https://gislaine-programadora.github.io/gbit-ecossistema/
 
 ---
 
